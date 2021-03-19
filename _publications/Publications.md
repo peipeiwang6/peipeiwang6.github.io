@@ -1,6 +1,8 @@
 ---
-collection: publications
-permalink: /publication/Publications.md/
+layout: page
+subheadline:  "Publications"
+title:  "Publications"
+permalink: "/publications/"
 ---
 
 ## Pre-prints
