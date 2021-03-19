@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Michigan State University-US"
-title                    : "Postdoc"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Peipei Wang"
 description              : &description "personal description"
