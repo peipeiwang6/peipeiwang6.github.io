@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Scientific service"
-permalink: /Scientific service/
+permalink: /scientific service/
 author_profile: true
 ---
 
