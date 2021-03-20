@@ -3,6 +3,7 @@ layout: page
 subheadline:  "Publications"
 title:  "Publications"
 permalink: "/publications/"
+author_profile: true
 ---
 
 __Notation__: <sup>‡</sup>: cofirst author
