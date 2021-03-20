@@ -5,7 +5,7 @@ permalink: /Research project/
 author_profile: true
 ---
 
-**I am currently interested in questions: **
+I am currently interested in questions: 
 
 How do genome assemblies, genotyping methods, variant and allelic types, ploidy levels impact genomic prediction?
 
