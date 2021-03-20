@@ -81,12 +81,12 @@ analytics:
 author:
   name             : "Peipei Wang"
   avatar           : "51x51mm.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : 
   location         : "Michigan State University"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=opTg_oYAAAAJ&hl=en"
-  email            :
+  email            : "peipeiwang6@gmail.com, peipeiw@msu.edu"
   researchgate     : "https://www.researchgate.net/profile/Peipei-Wang-7"
   uri              :
   bitbucket        :
