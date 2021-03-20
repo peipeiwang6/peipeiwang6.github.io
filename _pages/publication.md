@@ -17,7 +17,7 @@ Bethany Moore, Yun Lee, **Peipei Wang**, Christina Azodi, Erich Grotewold, and S
 
 **Wang P**, Moore BM, Ugyun S, Lehti-Shiu M, Barry C,Shiu SH. Optimizing the use of gene expression data to predict plant metabolic pathway memberships. *New Phytologist* (accepted) *[bioRxiv](https://doi.org/10.1101/2020.07.15.204222)* 
 
-**Wang PP**, Meng FR, Moore BM, Shiu SH. Impact of short-read sequencing on the misassembly of a plant genome. *BMC Genomics* 22(1):99 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33530937/)
+**Wang PP**, Meng FR, Moore BM, Shiu SH. 2021. Impact of short-read sequencing on the misassembly of a plant genome. *BMC Genomics* 22(1):99 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33530937/)
 
 Bethany M Moore, **Peipei Wang**, Pengxiang Fan, Aaron Lee, Bryan Leong, Yann-Ru Lou, Craig A Schenck, Koichi Sugimoto, Robert Last, Melissa D Lehti-Shiu, Cornelius S Barry, Shin-Han Shiu. 2020. Within and cross species predictions of plant specialized metabolism genes using transfer learning. *in silico Plants*, 2(1): diaa005 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33344884/)
 
