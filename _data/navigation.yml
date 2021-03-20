@@ -1,13 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Education"
+    url: /Education/    
 
   - title: "Research project"
     url: /Research project/
-    
-  - title: "Education"
-    url: /Education/    
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Award"
+    url: /award/
 
   - title: "Scientific service"
     url: /Scientific service/
