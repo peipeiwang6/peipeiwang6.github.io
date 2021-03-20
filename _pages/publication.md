@@ -5,7 +5,7 @@ permalink: /publication/
 author_profile: true
 ---
 
-__Notation__: <sup>‡</sup>: cofirst author
+__Notation__: <sup>‡</sup>: co-first author
 
 ## Pre-prints
 
