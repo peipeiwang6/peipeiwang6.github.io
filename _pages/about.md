@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 **Why are the structures of spiral flowers flexible?**
-<a href="https://www.nature.com/articles/nplants2015188/figures/3"><img src="../images/41477_2016_Article_BFnplants2015188_Fig3.png" align="right" width="300"></a> 
-
+<a href="https://www.nature.com/articles/nplants2015188/figures/3"><img src="../images/41477_2016_Article_BFnplants2015188_Fig3.png" align="right" width="100"></a> 
+Using *Nigella damascena* (love-in-a-mist) as a model system, we revealed that the expression profiles of floral organ identify genes are dymatic, and the genes regulate the boundaries between different types of floral organs by forming a complex regulatory network. Notably, the *AGL6*-lineage member *NdAGL6* is an A-function gene determining the identity of sepal and petal, rather than the *AP1*-lineage genes as in *Arabidopsis thaliana*.
 
 **How do gene family sizes vary among related plant species?**
 
