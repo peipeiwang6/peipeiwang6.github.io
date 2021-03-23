@@ -15,7 +15,7 @@ Bethany Moore, Yun Lee, **Peipei Wang**, Christina Azodi, Erich Grotewold, and S
 
 ## Published
 
-**Wang P**, Moore BM, Ugyun S, Lehti-Shiu M, Barry C,Shiu SH. Optimizing the use of gene expression data to predict plant metabolic pathway memberships. *New Phytologist* (accepted) *[New Phytologist](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17355)* 
+**Wang P**, Moore BM, Ugyun S, Lehti-Shiu M, Barry C,Shiu SH. Optimizing the use of gene expression data to predict plant metabolic pathway memberships. *New Phytologist* (accepted) [New Phytologist](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17355)
 
 **Wang PP**, Meng FR, Moore BM, Shiu SH. 2021. Impact of short-read sequencing on the misassembly of a plant genome. *BMC Genomics* 22(1):99 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33530937/)
 
