@@ -11,7 +11,7 @@ __Notation__: <sup>‡</sup>: co-first author
 Bethany Moore, Yun Lee, **Peipei Wang**, Christina Azodi, Erich Grotewold, and Shin-Han Shiu. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. (under review)
 
 ## Published
-Siobhan A. Cusack, **Peipei Wang**, Bethany M. Moore, Fanrui Meng, Jeffrey K. Conner, Patrick J. Krysan, Melissa D. Lehti-Shiu, Shin-Han Shiu. Predictive models of genetic redundancy in Arabidopsis thaliana. *Molecular Biology and Evolution*  (accepted) *[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.08.13.250225v1)*
+Siobhan A. Cusack, **Peipei Wang**, Serena G. Lotreck, Bethany M. Moore, Fanrui Meng, Jeffrey K. Conner, Patrick J. Krysan, Melissa D. Lehti-Shiu, Shin-Han Shiu. Predictive models of genetic redundancy in Arabidopsis thaliana. *Molecular Biology and Evolution*  (accepted) *[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.08.13.250225v1)*
 
 **Peipei Wang**, Bethany M. Moore, Sahra Uygun, Melissa D. Lehti-Shiu, Cornelius S. Barry, Shin-Han Shiu. Optimizing the use of gene expression data to predict plant metabolic pathway memberships. *New Phytologist* (accepted) [New Phytologist](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17355)
 
