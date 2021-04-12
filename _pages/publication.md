@@ -23,7 +23,7 @@ Rui Zhang<sup>‡</sup>, Xuehao Fu<sup>‡</sup>, Caiyao Zhao<sup>‡</sup>, Jie
 
 Pengxiang Fan, **Peipei Wang**, Yann-Ru Lou, Bryan J Leong, Bethany M Moore, Craig A Schenck, Rachel Combs, Pengfei Cao, Federica Brandizzi, Shin-Han Shiu, Robert Last<sup>#</sup>. 2020. Evolution of a plant gene cluster in Solanaceae and emergence of metabolic diversity. *eLife*, 9:e56717 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32613943/)
 
-Yan Bao<sup>‡</sup><sup>#</sup>, Wei-Meng Song<sup>‡</sup>, **Peipei Wang**, Xiang Yu, Bei Li, Chunmei Jiang, Shin-Han Shiu, Hongxia Zhang<sup>#</sup>, Diane C Bassham<sup>#</sup>. 2020. COST1 regulates autophagy to control plant drought tolerance. *Proc. Natl. Acad. Sci. U.S.A*, 117(13): 7482-7493 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32170020/)
+Yan Bao<sup>‡</sup><sup>#</sup>, Weimeng Song<sup>‡</sup>, **Peipei Wang**, Xiang Yu, Bei Li, Chunmei Jiang, Shin-Han Shiu, Hongxia Zhang<sup>#</sup>, Diane C Bassham<sup>#</sup>. 2020. COST1 regulates autophagy to control plant drought tolerance. *Proc. Natl. Acad. Sci. U.S.A*, 117(13): 7482-7493 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32170020/)
 
 Bethany M. Moore, **Peipei Wang**,  Pengxiang Fan,  Bryan Leong, Craig A. Schenck, John P. Lloyd, Melissa D. Lehti-Shiu,  Robert L. Last, Eran Pichersky, Shin-Han Shiu<sup>#</sup>. 2019. Robust predictions of specialized metabolism genes through machine learning. *Proc. Natl. Acad. Sci. U.S.A*, 116 (6):2344-2353 [pubmed](https://pubmed.ncbi.nlm.nih.gov/30674669/)
 
