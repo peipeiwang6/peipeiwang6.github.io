@@ -19,7 +19,7 @@ Siobhan A. Cusack, **Peipei Wang**, Serena G. Lotreck, Bethany M. Moore, Fanrui 
 
 Bethany M Moore, **Peipei Wang**, Pengxiang Fan, Aaron Lee, Bryan Leong, Yann-Ru Lou, Craig A Schenck, Koichi Sugimoto, Robert Last, Melissa D Lehti-Shiu, Cornelius S Barry, Shin-Han Shiu. 2020. Within and cross species predictions of plant specialized metabolism genes using transfer learning. *in silico Plants*, 2(1): diaa005 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33344884/)
 
-Rui Zhang, Xuehao Fu, Caiyao Zhao, Jie Cheng, Hong Liao, **Peipei Wang**, Xu Yao, Xiaoshan Duan, Yi Yuan, Guixia Xu, Elena M Kramer, Hongyan Shan, Hongzhi Kong. 2020. Identification of the key regulatory genes involved in elaborate petal development and specialized character formation in Nigella damascena (Ranunculaceae). *The Plant Cell*, 32(10): 3095-3112 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32732312/)
+Rui Zhang<sup>‡</sup>, Xuehao Fu<sup>‡</sup>, Caiyao Zhao<sup>‡</sup>, Jie Cheng<sup>‡</sup>, Hong Liao, **Peipei Wang**, Xu Yao, Xiaoshan Duan, Yi Yuan, Guixia Xu, Elena M Kramer, Hongyan Shan, Hongzhi Kong. 2020. Identification of the key regulatory genes involved in elaborate petal development and specialized character formation in Nigella damascena (Ranunculaceae). *The Plant Cell*, 32(10): 3095-3112 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32732312/)
 
 Pengxiang Fan, **Peipei Wang**, Yann-Ru Lou, Bryan J Leong, Bethany M Moore, Craig A Schenck, Rachel Combs, Pengfei Cao, Federica Brandizzi, Shin-Han Shiu, Robert Last. 2020. Evolution of a plant gene cluster in Solanaceae and emergence of metabolic diversity. *eLife*, 9:e56717 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32613943/)
 
