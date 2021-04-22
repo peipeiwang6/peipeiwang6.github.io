@@ -13,7 +13,7 @@ Bethany Moore, Yun Lee, **Peipei Wang**, Christina Azodi, Erich Grotewold, and S
 ## Published
 Siobhan A. Cusack, **Peipei Wang**, Serena G. Lotreck, Bethany M. Moore, Fanrui Meng, Jeffrey K. Conner, Patrick J. Krysan, Melissa D. Lehti-Shiu, Shin-Han Shiu<sup>#</sup>. Predictive models of genetic redundancy in Arabidopsis thaliana. *Molecular Biology and Evolution*  [accepted](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msab111/6237916)
 
-**Peipei Wang**, Bethany M. Moore, Sahra Uygun, Melissa D. Lehti-Shiu, Cornelius S. Barry, Shin-Han Shiu<sup>#</sup>. Optimizing the use of gene expression data to predict plant metabolic pathway memberships. *New Phytologist* (accepted) [New Phytologist](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17355)
+**Peipei Wang**, Bethany M. Moore, Sahra Uygun, Melissa D. Lehti-Shiu, Cornelius S. Barry, Shin-Han Shiu<sup>#</sup>. Optimizing the use of gene expression data to predict plant metabolic pathway memberships. *New Phytologist* [accepted](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17355)
 
 **Peipei Wang**, Fanrui Meng, Bethany M. Moore, Shin-Han Shiu<sup>#</sup>. 2021. Impact of short-read sequencing on the misassembly of a plant genome. *BMC Genomics* 22(1):99 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33530937/)
 
