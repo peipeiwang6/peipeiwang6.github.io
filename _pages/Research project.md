@@ -16,4 +16,4 @@ I am currently interested in questions:
 3. How did the gene clusters arise and evolve?
 
 
-4. How do the genomic environment impact the expression, function and evolution of duplicate genes?
+4. How does the genomic environment impact the expression, function and evolution of duplicate genes?
