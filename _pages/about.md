@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## I am interested in questions about the evolution of plants, genes, plant genomes and transcriptomes.
+## I am generally interested in questions about the evolution of plants, genes, plant genomes and transcriptomes, and the predictive biology using machine learning. 
 
 **Why are the structures of spiral flowers flexible?**
 <a href="https://www.nature.com/articles/nplants2015188/figures/3"><img src="../images/41477_2016_Article_BFnplants2015188_Fig3.png" align="right" width="150"></a> 
