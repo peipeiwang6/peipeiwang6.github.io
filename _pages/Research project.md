@@ -13,6 +13,6 @@ I am now working on or will focus on the following questions:
 4. How did the metabolic gene clusters arise and evolve?
 5. How well can we predict metabolic pathway genes using omics data?
 6. What are the mechanisms underlying gene loss for single-copy gene families following gene and genome duplications?
-7. How does the relocation of duplicates affect the expression, function, and fate of duplicates?
+7. How does the relocation affect the expression, function, and evolutionary fate of duplicates?
 
 
