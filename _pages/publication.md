@@ -31,7 +31,7 @@ Bethany Moore, Yun Lee, **Peipei Wang**, Christina Azodi, Erich Grotewold, and S
 
 5. Melissa D. Lehti-Shiu, Nicholas Panchy, **Peipei Wang**, Sahra Uygun, Shin-Han Shiu<sup>#</sup>. 2017. Diversity, expansion, and evolutionary novelty of plant DNA-binding transcription factor families. *BBA-Gene Regul Mech*, 1860: 3-20 [pubmed](https://pubmed.ncbi.nlm.nih.gov/27522016/)
 
-4. **Peipei Wang**<sup>‡</sup>, Hong Liao<sup>‡</sup>, Wengen Zhang<sup>‡</sup>, Xianxian Yu, Rui Zhang, Hongyan Shan, Xiaoshan Duan, Xu Yao, Hongzhi Kong<sup>#</sup>. 2016. Flexibility in the structure of spiral flowers and its underlying mechanisms. *Nat. Plants*, 2(15188) [pubmed](https://pubmed.ncbi.nlm.nih.gov/27250746/)
+4. **Peipei Wang**<sup>‡</sup>, Hong Liao<sup>‡</sup>, Wengen Zhang<sup>‡</sup>, Xianxian Yu, Rui Zhang, Hongyan Shan, Xiaoshan Duan, Xu Yao, Hongzhi Kong<sup>#</sup>. 2016. Flexibility in the structure of spiral flowers and its underlying mechanisms. *Nat. Plants*, 2:15188 [pubmed](https://pubmed.ncbi.nlm.nih.gov/27250746/)
 
 3. Jinhua Ran, Tingting Shen, Wenjuan Liu, **Peipei Wang**, Xiaoquan Wang<sup>#</sup>. 2015. Mitochondrial introgression and complex biogeographic history of the genus Picea. *Mol. Phylogenetics Evol*, 63: 63-76 [pubmed](https://pubmed.ncbi.nlm.nih.gov/26232548/)
 
