@@ -9,7 +9,7 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 ## Pre-prints
 
-**Peipei Wang**<sup>‡</sup>, Fanrui Meng<sup>‡</sup>, Paityn Donaldson, Sarah Horan, Nicholas L. Panchy, Elyse Vischulis, Eamon Winship, Jeffrey K. Conner, Melissa D. Lehti-Shiu<sup>#</sup>, Shin-Han Shiu<sup>#</sup>. High throughput measurement of Arabidopsis thaliana fitness traits using transfer learning. *[bioRxiv](https://doi.org/10.1101/2021.07.01.450758)*
+**Peipei Wang**<sup>‡</sup>, Fanrui Meng<sup>‡</sup>, Paityn Donaldson, Sarah Horan, Nicholas L. Panchy, Elyse Vischulis, Eamon Winship, Jeffrey K. Conner, Patrick J Krysan, Shin-Han Shiu<sup>#</sup>, Melissa D. Lehti-Shiu<sup>#</sup>. High throughput measurement of Arabidopsis thaliana fitness traits using deep learning. *[bioRxiv](https://doi.org/10.1101/2021.07.01.450758)*
 
 
 Bethany Moore, Yun Lee, **Peipei Wang**, Christina Azodi, Erich Grotewold, and Shin-Han Shiu<sup>#</sup>. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. (under review)
