@@ -11,10 +11,9 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 **Peipei Wang**<sup>‡</sup>, Fanrui Meng<sup>‡</sup>, Paityn Donaldson, Sarah Horan, Nicholas L. Panchy, Elyse Vischulis, Eamon Winship, Jeffrey K. Conner, Patrick J Krysan, Shin-Han Shiu<sup>#</sup>, Melissa D. Lehti-Shiu<sup>#</sup>. High throughput measurement of Arabidopsis thaliana fitness traits using deep learning. *[bioRxiv](https://doi.org/10.1101/2021.07.01.450758)*
 
-
-Bethany Moore, Yun Lee, **Peipei Wang**, Christina Azodi, Erich Grotewold, and Shin-Han Shiu<sup>#</sup>. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. (under review)
-
 ## Published
+15. Bethany Moore, Yun Lee, **Peipei Wang**, Christina Azodi, Erich Grotewold, and Shin-Han Shiu<sup>#</sup>. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. *Plant Cell* (accepted). 
+
 14. Siobhan A. Cusack, **Peipei Wang**, Serena G. Lotreck, Bethany M. Moore, Fanrui Meng, Jeffrey K. Conner, Patrick J. Krysan, Melissa D. Lehti-Shiu, Shin-Han Shiu<sup>#</sup>. 2021. Predictive models of genetic redundancy in Arabidopsis thaliana. *Mol Biol Evol* 38(8):3397-3414 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33871641/)
 
 13. **Peipei Wang**, Bethany M. Moore, Sahra Uygun, Melissa D. Lehti-Shiu, Cornelius S. Barry, Shin-Han Shiu<sup>#</sup>. 2021. Optimizing the use of gene expression data to predict plant metabolic pathway memberships. *New Phytol* 231(1):475-489 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33749860/)
