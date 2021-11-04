@@ -14,7 +14,7 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 **Peipei Wang**<sup>#</sup>, Ally Schumacher and Shin-Han Shiu<sup>#</sup>. Computational prediction of plant metabolic pathways. (review paper, submitted)
 
 ## Published
-15. Bethany Moore, Yun Lee, **Peipei Wang**, Christina Azodi, Erich Grotewold, and Shin-Han Shiu<sup>#</sup>. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. *Plant Cell* (accepted). 
+15. Bethany Moore<sup>#</sup><sup>‡</sup>, Yun Lee<sup>‡</sup>, **Peipei Wang**, Christina Azodi, Erich Grotewold, and Shin-Han Shiu<sup>#</sup>. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. *Plant Cell* (accepted). 
 
 14. Siobhan A. Cusack, **Peipei Wang**, Serena G. Lotreck, Bethany M. Moore, Fanrui Meng, Jeffrey K. Conner, Patrick J. Krysan, Melissa D. Lehti-Shiu, Shin-Han Shiu<sup>#</sup>. 2021. Predictive models of genetic redundancy in Arabidopsis thaliana. *Mol Biol Evol* 38(8):3397-3414 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33871641/)
 
