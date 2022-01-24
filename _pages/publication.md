@@ -15,17 +15,17 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 ### 2022
 
-16. **Peipei Wang**<sup>#</sup>, Ally Schumacher and Shin-Han Shiu<sup>#</sup>. 2022. Computational prediction of plant metabolic pathways. *Current Opinion in Plant Biology* 66:102171 [Curr Opin Plant Biol.](https://authors.elsevier.com/a/1eStU4tPF3mLW6)
+16 **Peipei Wang**<sup>#</sup>, Ally Schumacher and Shin-Han Shiu<sup>#</sup>. 2022. Computational prediction of plant metabolic pathways. *Current Opinion in Plant Biology* 66:102171 [Curr Opin Plant Biol.](https://authors.elsevier.com/a/1eStU4tPF3mLW6)
 
 ### 2021
 
-15. Bethany Moore<sup>#</sup><sup>‡</sup>, Yun Lee<sup>‡</sup>, **Peipei Wang**, Christina Azodi, Erich Grotewold, and Shin-Han Shiu<sup>#</sup>. 2021. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. [Plant Cell](https://academic.oup.com/plcell/advance-article/doi/10.1093/plcell/koab287/6448773?login=true). 
+15 Bethany Moore<sup>#</sup><sup>‡</sup>, Yun Lee<sup>‡</sup>, **Peipei Wang**, Christina Azodi, Erich Grotewold, and Shin-Han Shiu<sup>#</sup>. 2021. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. [Plant Cell](https://academic.oup.com/plcell/advance-article/doi/10.1093/plcell/koab287/6448773?login=true). 
 
-14. Siobhan A. Cusack, **Peipei Wang**, Serena G. Lotreck, Bethany M. Moore, Fanrui Meng, Jeffrey K. Conner, Patrick J. Krysan, Melissa D. Lehti-Shiu, Shin-Han Shiu<sup>#</sup>. 2021. Predictive models of genetic redundancy in Arabidopsis thaliana. *Mol Biol Evol* 38(8):3397-3414 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33871641/)
+14 Siobhan A. Cusack, **Peipei Wang**, Serena G. Lotreck, Bethany M. Moore, Fanrui Meng, Jeffrey K. Conner, Patrick J. Krysan, Melissa D. Lehti-Shiu, Shin-Han Shiu<sup>#</sup>. 2021. Predictive models of genetic redundancy in Arabidopsis thaliana. *Mol Biol Evol* 38(8):3397-3414 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33871641/)
 
-13. **Peipei Wang**, Bethany M. Moore, Sahra Uygun, Melissa D. Lehti-Shiu, Cornelius S. Barry, Shin-Han Shiu<sup>#</sup>. 2021. Optimizing the use of gene expression data to predict plant metabolic pathway memberships. *New Phytol* 231(1):475-489 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33749860/)
+13 **Peipei Wang**, Bethany M. Moore, Sahra Uygun, Melissa D. Lehti-Shiu, Cornelius S. Barry, Shin-Han Shiu<sup>#</sup>. 2021. Optimizing the use of gene expression data to predict plant metabolic pathway memberships. *New Phytol* 231(1):475-489 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33749860/)
 
-12. **Peipei Wang**, Fanrui Meng, Bethany M. Moore, Shin-Han Shiu<sup>#</sup>. 2021. Impact of short-read sequencing on the misassembly of a plant genome. *BMC Genomics* 22(1):99 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33530937/)
+12 **Peipei Wang**, Fanrui Meng, Bethany M. Moore, Shin-Han Shiu<sup>#</sup>. 2021. Impact of short-read sequencing on the misassembly of a plant genome. *BMC Genomics* 22(1):99 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33530937/)
 
 ### 2020
 
