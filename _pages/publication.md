@@ -64,4 +64,4 @@ Rui Zhang<sup>‡</sup>, Chunce Guo<sup>‡</sup>, Wengen Zhang<sup>‡</sup>, *
 
 ### 2010
 
-Jinhua Ran<sup>‡</sup>, **Peipei Wang**<sup>‡</sup>, Huijuan Zhao, Xiaoquan Wang<sup>#</sup>. 2010. A test of seven candidate barcode regions from the plastome in Picea (Pinaceae). *J Integr Plant Biol* 52(12):1109–1126 [pubmed](https://pubmed.ncbi.nlm.nih.gov/21106009/)
+(1) Jinhua Ran<sup>‡</sup>, **Peipei Wang**<sup>‡</sup>, Huijuan Zhao, Xiaoquan Wang<sup>#</sup>. 2010. A test of seven candidate barcode regions from the plastome in Picea (Pinaceae). *J Integr Plant Biol* 52(12):1109–1126 [pubmed](https://pubmed.ncbi.nlm.nih.gov/21106009/)
