@@ -15,7 +15,7 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 ### 2022
 
-**Peipei Wang**<sup>#</sup>, Ally Schumacher and Shin-Han Shiu<sup>#</sup>. 2022. Computational prediction of plant metabolic pathways. *Current Opinion in Plant Biology* 66:102171 [Curr Opin Plant Biol.](https://authors.elsevier.com/a/1eStU4tPF3mLW6)
+**Peipei Wang**<sup>#</sup>, Ally Schumacher and Shin-Han Shiu<sup>#</sup>. 2022. Computational prediction of plant metabolic pathways. *Curr Opin Plant Biol* 66:102171 [Curr Opin Plant Biol.](https://authors.elsevier.com/a/1eStU4tPF3mLW6)
 
 ### 2021
 
