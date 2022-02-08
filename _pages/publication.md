@@ -17,9 +17,10 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 **Peipei Wang**<sup>#</sup>, Ally Schumacher and Shin-Han Shiu<sup>#</sup>. 2022. Computational prediction of plant metabolic pathways. *Curr Opin Plant Biol* 66:102171 [Curr Opin Plant Biol.](https://authors.elsevier.com/a/1eStU4tPF3mLW6)
 
-### 2021
 
-Bethany Moore<sup>#</sup><sup>‡</sup>, Yun Lee<sup>‡</sup>, **Peipei Wang**, Christina Azodi, Erich Grotewold, and Shin-Han Shiu<sup>#</sup>. 2021. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. [Plant Cell](https://academic.oup.com/plcell/advance-article/doi/10.1093/plcell/koab287/6448773?login=true). 
+Bethany Moore<sup>#</sup><sup>‡</sup>, Yun Lee<sup>‡</sup>, **Peipei Wang**, Christina Azodi, Erich Grotewold, and Shin-Han Shiu<sup>#</sup>. 2022. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. Plant Cell 34(2): 867–888 [Plant Cell](https://academic.oup.com/plcell/advance-article/doi/10.1093/plcell/koab287/6448773?login=true). 
+
+### 2021
 
 Siobhan A. Cusack, **Peipei Wang**, Serena G. Lotreck, Bethany M. Moore, Fanrui Meng, Jeffrey K. Conner, Patrick J. Krysan, Melissa D. Lehti-Shiu, Shin-Han Shiu<sup>#</sup>. 2021. Predictive models of genetic redundancy in Arabidopsis thaliana. *Mol Biol Evol* 38(8):3397-3414 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33871641/)
 
