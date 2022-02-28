@@ -15,12 +15,12 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 ### 2022
 
-<sup>17</sup> **Peipei Wang**<sup>‡</sup>, Fanrui Meng<sup>‡</sup>, Paityn Donaldson, Sarah Horan, Nicholas L. Panchy, Elyse Vischulis, Eamon Winship, Jeffrey K. Conner, Patrick J Krysan, Shin-Han Shiu<sup>#</sup>, Melissa D. Lehti-Shiu<sup>#</sup>. 2022. High throughput measurement of plant fitness traits with an object detection method using Faster R-CNN. New Phytol 10.1111/nph.18056 *[New Phytol]* (https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.18056)
+<sup>17</sup> **Peipei Wang**<sup>‡</sup>, Fanrui Meng<sup>‡</sup>, Paityn Donaldson, Sarah Horan, Nicholas L. Panchy, Elyse Vischulis, Eamon Winship, Jeffrey K. Conner, Patrick J Krysan, Shin-Han Shiu<sup>#</sup>, Melissa D. Lehti-Shiu<sup>#</sup>. 2022. High throughput measurement of plant fitness traits with an object detection method using Faster R-CNN. *New Phytol* 10.1111/nph.18056 [New Phytol] (https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.18056)
 
 <sup>16</sup> **Peipei Wang**<sup>#</sup>, Ally Schumacher and Shin-Han Shiu<sup>#</sup>. 2022. Computational prediction of plant metabolic pathways. *Curr Opin Plant Biol* 66:102171 [Curr Opin Plant Biol](https://authors.elsevier.com/a/1eStU4tPF3mLW6)
 
 
-<sup>15</sup> Bethany Moore<sup>#</sup><sup>‡</sup>, Yun Lee<sup>‡</sup>, **Peipei Wang**, Christina Azodi, Erich Grotewold, and Shin-Han Shiu<sup>#</sup>. 2022. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. Plant Cell 34(2): 867–888 [Plant Cell](https://academic.oup.com/plcell/advance-article/doi/10.1093/plcell/koab287/6448773?login=true). 
+<sup>15</sup> Bethany Moore<sup>#</sup><sup>‡</sup>, Yun Lee<sup>‡</sup>, **Peipei Wang**, Christina Azodi, Erich Grotewold, and Shin-Han Shiu<sup>#</sup>. 2022. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. *Plant Cell* 34(2): 867–888 [Plant Cell](https://academic.oup.com/plcell/advance-article/doi/10.1093/plcell/koab287/6448773?login=true). 
 
 ### 2021
 
