@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Kunpeng Institute of Modern Agriculture at Foshan/Agricultural Genomics Institute at Shenzhen-China"
+locale                   : "Michigan State University-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Peipei Wang"
 description              : &description "personal description"
 url                      : https://peipeiwang6.github.io/ 
 repository               : "peipeiwang6/peipeiwang6.github.io"
-teaser                   : "WeChat Image_20210924125453——.jpg"
+teaser                   : "51x51mm.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
