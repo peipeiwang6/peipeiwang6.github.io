@@ -50,7 +50,7 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 ### 2017
 
-<sup>5</sup> Melissa D. Lehti-Shiu, Nicholas Panchy, **Peipei Wang**, Sahra Uygun, Shin-Han Shiu<sup>#</sup>. 2017. Diversity, expansion, and evolutionary novelty of plant DNA-binding transcription factor families. *BBA-Gene Regul Mech* 1860:3-20 [pubmed](https://pubmed.ncbi.nlm.nih.gov/27522016/)
+<sup>5</sup> Melissa D. Lehti-Shiu, Nicholas Panchy, **Peipei Wang**, Sahra Uygun, Shin-Han Shiu<sup>#</sup>. 2017. Diversity, expansion, and evolutionary novelty of plant DNA-binding transcription factor families. *BBA-Gene Regul Mech* 1860(1):3-20 [pubmed](https://pubmed.ncbi.nlm.nih.gov/27522016/)
 
 ### 2016
 
@@ -58,11 +58,11 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 ### 2015
 
-<sup>3</sup> Jinhua Ran, Tingting Shen, Wenjuan Liu, **Peipei Wang**, Xiaoquan Wang<sup>#</sup>. 2015. Mitochondrial introgression and complex biogeographic history of the genus Picea. *Mol Phylogenetics Evol* 63:63-76 [pubmed](https://pubmed.ncbi.nlm.nih.gov/26232548/)
+<sup>3</sup> Jinhua Ran, Tingting Shen, Wenjuan Liu, **Peipei Wang**, Xiaoquan Wang<sup>#</sup>. 2015. Mitochondrial introgression and complex biogeographic history of the genus Picea. *Mol Phylogenetics Evol* 93:63-76 [pubmed](https://pubmed.ncbi.nlm.nih.gov/26232548/)
 
 ### 2013
 
-<sup>2</sup> Rui Zhang<sup>‡</sup>, Chunce Guo<sup>‡</sup>, Wengen Zhang<sup>‡</sup>, **Peipei Wang**, Lin Li, Xiaoshan Duan, Qinggao Du, Liang Zhao, Hongyan Shan, Scott A. Hodges, Elena M. Kramer, Yi Ren, Hongzhi Kong<sup>#</sup>. 2013. Disruption of the petal identity gene APETALA3-3 is highly correlated with loss of petals within the buttercup family (Ranunculaceae). *Proc Natl Acad Sci U S A* 110:5074-5079 [pubmed](https://pubmed.ncbi.nlm.nih.gov/23479615/)
+<sup>2</sup> Rui Zhang<sup>‡</sup>, Chunce Guo<sup>‡</sup>, Wengen Zhang<sup>‡</sup>, **Peipei Wang**, Lin Li, Xiaoshan Duan, Qinggao Du, Liang Zhao, Hongyan Shan, Scott A. Hodges, Elena M. Kramer, Yi Ren, Hongzhi Kong<sup>#</sup>. 2013. Disruption of the petal identity gene APETALA3-3 is highly correlated with loss of petals within the buttercup family (Ranunculaceae). *Proc Natl Acad Sci U S A* 110(13):5074-5079 [pubmed](https://pubmed.ncbi.nlm.nih.gov/23479615/)
 
 ### 2010
 
