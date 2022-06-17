@@ -11,7 +11,7 @@ author_profile: true
 
 **2016-2022	Postdoctoral Researcher** (Plant Biology), Department of Plant Biology, and U.S. Department of Energy Great Lakes Bioenergy Research Center, Michigan State University, Easting Lansing, U.S.A. 
 
-## Published
+## Education
 
 **2010-2016	Ph.D** (Botany), University of Chinese Academy of Sciences, Beijing, China
 
