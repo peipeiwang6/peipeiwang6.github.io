@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Education"
-permalink: /Education/
+title: "CV"
+permalink: /CV/
 author_profile: true
 ---
 **2022~	PI/Researcher** (Floriculture and Bioinformatics), Traditional Chinese Medicine and Floriculture Research Center, Kunpeng Institute of Modern Agriculture at Foshan/Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences 
