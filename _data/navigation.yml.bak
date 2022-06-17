@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "Publication"
+    url: /publication/
+
+  - title: "CV"
+    url: /CV/    
+
+  - title: "Research project"
+    url: /Research project/
+
+  - title: "Award"
+    url: /award/
+
+  - title: "Scientific service"
+    url: /Scientific service/
