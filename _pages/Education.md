@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Education"
-permalink: /Education and work experience/
+title: "Education and work experience"
+permalink: /Education/
 author_profile: true
 ---
 
