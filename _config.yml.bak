@@ -13,7 +13,7 @@ name                     : &name "Peipei Wang"
 description              : &description "personal description"
 url                      : https://peipeiwang6.github.io/ 
 repository               : "peipeiwang6/peipeiwang6.github.io"
-teaser                   : "51x51mm.png"
+teaser                   : "WeChat Image_20210924125453——.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
