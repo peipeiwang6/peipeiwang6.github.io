@@ -9,7 +9,7 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 ## Pre-prints
 
-<sup>18</sup> Thilanka Ranaweera, Brianna N.I. Brown, **Peipei Wang**<sup>#</sup>, Shin-Han Shiu<sup>#</sup>. Temporal Regulation of Cold Transcriptional Response in Switchgrass. (submitted)
+<sup>18</sup> Thilanka Ranaweera, Brianna N.I. Brown, **Peipei Wang**<sup>#</sup>, Shin-Han Shiu<sup>#</sup>. Temporal Regulation of Cold Transcriptional Response in Switchgrass. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.01.502344v1)
 
 ## Published
 
