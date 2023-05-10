@@ -19,7 +19,7 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 ### 2022
 
-<sup>18</sup> Thilanka Ranaweera, Brianna N.I. Brown, **Peipei Wang**<sup>#</sup>, Shin-Han Shiu<sup>#</sup>. 2022. Temporal regulation of cold transcriptional response in switchgrass. *Frontiers in Plant Science* [Frontiers in Plant Science](https://www.frontiersin.org/articles/10.3389/fpls.2022.998400/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Plant_Science&id=998400)
+<sup>18</sup> Thilanka Ranaweera, Brianna N.I. Brown, **Peipei Wang**<sup>#</sup>, Shin-Han Shiu<sup>#</sup>. 2022. Temporal regulation of cold transcriptional response in switchgrass. *Frontiers in Plant Science* [pubmed](https://pubmed.ncbi.nlm.nih.gov/36299783/)
 
 <sup>17</sup> **Peipei Wang**<sup>‡</sup>, Fanrui Meng<sup>‡</sup>, Paityn Donaldson, Sarah Horan, Nicholas L. Panchy, Elyse Vischulis, Eamon Winship, Jeffrey K. Conner, Patrick J Krysan, Shin-Han Shiu<sup>#</sup>, Melissa D. Lehti-Shiu<sup>#</sup>. 2022. High throughput measurement of plant fitness traits with an object detection method using Faster R-CNN. *New Phytol* 234(4):1521-1533 [pubmed](https://pubmed.ncbi.nlm.nih.gov/35218008/)
 
