@@ -13,6 +13,10 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 ## Published
 
+### 2023
+
+<sup>19</sup> **Peipei Wang**<sup>#</sup>, Pengxiang Fan<sup>#</sup>, Yan Bao<sup>#</sup>, Wei Li<sup>#</sup>, Li Wang<sup>#</sup>. 2023. Editorial: Omics Data-based Identification of Plant Specialized Metabolic Genes. *Frontiers in Plant Science* [Frontiers in Plant Science](https://www.frontiersin.org/articles/10.3389/fpls.2023.1209334/full)
+
 ### 2022
 
 <sup>18</sup> Thilanka Ranaweera, Brianna N.I. Brown, **Peipei Wang**<sup>#</sup>, Shin-Han Shiu<sup>#</sup>. 2022. Temporal regulation of cold transcriptional response in switchgrass. *Frontiers in Plant Science* [Frontiers in Plant Science](https://www.frontiersin.org/articles/10.3389/fpls.2022.998400/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Plant_Science&id=998400)
@@ -20,7 +24,6 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 <sup>17</sup> **Peipei Wang**<sup>‡</sup>, Fanrui Meng<sup>‡</sup>, Paityn Donaldson, Sarah Horan, Nicholas L. Panchy, Elyse Vischulis, Eamon Winship, Jeffrey K. Conner, Patrick J Krysan, Shin-Han Shiu<sup>#</sup>, Melissa D. Lehti-Shiu<sup>#</sup>. 2022. High throughput measurement of plant fitness traits with an object detection method using Faster R-CNN. *New Phytol* 234(4):1521-1533 [pubmed](https://pubmed.ncbi.nlm.nih.gov/35218008/)
 
 <sup>16</sup> **Peipei Wang**<sup>#</sup>, Ally Schumacher and Shin-Han Shiu<sup>#</sup>. 2022. Computational prediction of plant metabolic pathways. *Curr Opin Plant Biol* 66:102171 [pubmed](https://pubmed.ncbi.nlm.nih.gov/35078130/)
-
 
 <sup>15</sup> Bethany Moore<sup>#</sup><sup>‡</sup>, Yun Lee<sup>‡</sup>, **Peipei Wang**, Christina Azodi, Erich Grotewold, and Shin-Han Shiu<sup>#</sup>. 2022. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. *Plant Cell* 34(2): 867–888 [pubmed](https://pubmed.ncbi.nlm.nih.gov/34865154/). 
 
