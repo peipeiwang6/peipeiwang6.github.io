@@ -20,7 +20,7 @@ Using *Nigella damascena* (love-in-a-mist) as a model system, we revealed that t
 
 
 **How well can the gene expression data be used to predict metabolic pathway memberships?**
-<a href="https://nph.onlinelibrary.wiley.com/cms/asset/0d5858f8-88fa-4fa8-8eb5-fd14301eb72c/nph17355-fig-0006-m.jpg"><img src="../images/nph17355-fig-0006-m.jpg" align="right" width="150"></a> 
+<a href="https://nph.onlinelibrary.wiley.com/cms/asset/0d5858f8-88fa-4fa8-8eb5-fd14301eb72c/nph17355-fig-0006-m.jpg"><img src="../images/nph17355-fig-0006-m.jpg" align="right" width="350"></a> 
 To optimize the use of gene expression data to predict plant metabolic pathway memberships, we explored >600 tomato expression data combinations, three strategies for predicting memberships in 85 pathways. We found that optimal predictions for different pathways require distinct data combinations indicative of pathway functions. Unsupervised learning performed better than supervised approaches, while gene-to-pathway expression similarities led to prediction models that outperformed those based simply on expression levels. Predictions for experimental validated genes is significantly better than that for genes without experimental evidence, demonstrating the importance of data quality. Our study highlights the need to extensively explore expression-based features and prediction strategies to maximize the accuracy of metabolic pathway membership assignment. These results have been published in *New Phytol*. [pubmed](https://pubmed.ncbi.nlm.nih.gov/33749860/)
 
 **How do gene family sizes vary among related plant species?**
