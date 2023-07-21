@@ -10,7 +10,7 @@ redirect_from:
 
 ## I am generally interested in questions about the evolution of plants, genes, plant genomes and transcriptomes, and the predictive biology using machine learning. 
 
-**How can we measure Arabidopsis fitness efficiently?
+**How can we measure Arabidopsis fitness efficiently?**
 <a href="https://nph.onlinelibrary.wiley.com/cms/asset/2c994acd-68fa-42a2-a374-e3842ad4ad86/nph18056-fig-0002-m.png"><img src="../images/nph18056-fig-0002-m.jpg" align="right" width="150"></a> Using the Faster Region-based Convolutional Neural Network (R-CNN) algorithm, we established the image recognition models for Arabidopsis seeds and fruits, which yielded near perfect counts (r2 = 0.9996 and 0.980, respectively). These results have been published in *New Phytol*.[pubmed](https://pubmed.ncbi.nlm.nih.gov/35218008/)
 
 
