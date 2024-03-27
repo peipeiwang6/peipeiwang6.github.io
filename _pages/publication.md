@@ -9,10 +9,15 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 ## Pre-prints
 
-<sup>20</sup> **Peipei Wang**<sup>#</sup>, Melissa D Lehti-Shiu, Serena Lotreck, Kenia Segura Aba, Shin-Han Shiu<sup>#</sup>. 2023. Prediction of plant complex traits via integration of multi-omics data. *bioRxiv* [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.11.14.566971v1)
+<sup>21</sup> **Peipei Wang**<sup>#</sup>, Melissa D Lehti-Shiu, Serena Lotreck, Kenia Segura Aba, Shin-Han Shiu<sup>#</sup>. 2023. Prediction of plant complex traits via integration of multi-omics data. *bioRxiv* [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.11.14.566971v1)
 
 
 ## Published
+
+### 2024
+
+<sup>20</sup> Wenhui Bai, Cheng Li, Wei Li, Xiaohong Han<sup>#</sup>, **Peipei Wang**<sup>#</sup>, Li Wang<sup>#</sup>. 2024. Machine learning assists prediction of genes responsible for plant specialized metabolite biosynthesis by integrating multi-omics data. *BMC Genomics* (accepted)
+
 
 ### 2023
 
