@@ -9,7 +9,7 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 ## Pre-prints
 
-<sup>21</sup> **Peipei Wang**<sup>#</sup>, Melissa D Lehti-Shiu, Serena Lotreck, Kenia Segura Aba, Patrick J. Krysan, Shin-Han Shiu<sup>#</sup>. 2023. Prediction of plant complex traits via integration of multi-omics data. *bioRxiv* [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.11.14.566971v1)
+<sup>21</sup> **Peipei Wang**<sup>#</sup>, Melissa D Lehti-Shiu, Serena Lotreck, Kenia Segura Aba, Patrick J. Krysan, Shin-Han Shiu<sup>#</sup>. 2023. Prediction of plant complex traits via integration of multi-omics data. *bioRxiv* [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.11.14.566971v2)
 
 
 ## Published
