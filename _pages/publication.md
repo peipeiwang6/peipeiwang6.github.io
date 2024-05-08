@@ -21,7 +21,7 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 ### 2023
 
-<sup>19</sup> **Peipei Wang**<sup>#</sup>, Pengxiang Fan<sup>#</sup>, Yan Bao<sup>#</sup>, Wei Li<sup>#</sup>, Li Wang<sup>#</sup>. 2023. Editorial: Omics Data-based Identification of Plant Specialized Metabolic Genes. *Frontiers in Plant Science* 14:1209334[Frontiers in Plant Science](https://www.frontiersin.org/articles/10.3389/fpls.2023.1209334/full)
+<sup>19</sup> **Peipei Wang**<sup>#</sup>, Pengxiang Fan<sup>#</sup>, Yan Bao<sup>#</sup>, Wei Li<sup>#</sup>, Li Wang<sup>#</sup>. 2023. Editorial: Omics Data-based Identification of Plant Specialized Metabolic Genes. *Frontiers in Plant Science* 14:1209334 [Frontiers in Plant Science](https://www.frontiersin.org/articles/10.3389/fpls.2023.1209334/full)
 
 ### 2022
 
