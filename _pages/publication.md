@@ -16,7 +16,7 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 ### 2024
 
-<sup>20</sup> Wenhui Bai, Cheng Li, Wei Li, Xiaohong Han<sup>#</sup>, **Peipei Wang**<sup>#</sup>, Li Wang<sup>#</sup>. 2024. Machine learning assists prediction of genes responsible for plant specialized metabolite biosynthesis by integrating multi-omics data. *BMC Genomics* (accepted)
+<sup>20</sup> Wenhui Bai, Cheng Li, Wei Li, Xiaohong Han<sup>#</sup>, **Peipei Wang**<sup>#</sup>, Li Wang<sup>#</sup>. 2024. Machine learning assists prediction of genes responsible for plant specialized metabolite biosynthesis by integrating multi-omics data. *BMC Genomics* [BMC Genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-024-10258-6)
 
 
 ### 2023
