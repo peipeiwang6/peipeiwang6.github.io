@@ -16,12 +16,12 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 ### 2024
 
-<sup>20</sup> Wenhui Bai, Cheng Li, Wei Li, Xiaohong Han<sup>#</sup>, **Peipei Wang**<sup>#</sup>, Li Wang<sup>#</sup>. 2024. Machine learning assists prediction of genes responsible for plant specialized metabolite biosynthesis by integrating multi-omics data. *BMC Genomics* 25:418 [BMC Genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-024-10258-6)
+<sup>20</sup> Wenhui Bai, Cheng Li, Wei Li, Xiaohong Han<sup>#</sup>, **Peipei Wang**<sup>#</sup>, Li Wang<sup>#</sup>. 2024. Machine learning assists prediction of genes responsible for plant specialized metabolite biosynthesis by integrating multi-omics data. *BMC Genomics* 25:418 [pubmed](https://pubmed.ncbi.nlm.nih.gov/38679745/)
 
 
 ### 2023
 
-<sup>19</sup> **Peipei Wang**<sup>#</sup>, Pengxiang Fan<sup>#</sup>, Yan Bao<sup>#</sup>, Wei Li<sup>#</sup>, Li Wang<sup>#</sup>. 2023. Editorial: Omics Data-based Identification of Plant Specialized Metabolic Genes. *Frontiers in Plant Science* 14:1209334 [Frontiers in Plant Science](https://www.frontiersin.org/articles/10.3389/fpls.2023.1209334/full)
+<sup>19</sup> **Peipei Wang**<sup>#</sup>, Pengxiang Fan<sup>#</sup>, Yan Bao<sup>#</sup>, Wei Li<sup>#</sup>, Li Wang<sup>#</sup>. 2023. Editorial: Omics Data-based Identification of Plant Specialized Metabolic Genes. *Frontiers in Plant Science* 14:1209334 [pubmed](https://pubmed.ncbi.nlm.nih.gov/37360719/)
 
 ### 2022
 
