@@ -8,7 +8,7 @@ author_profile: true
 __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding author
 
 ## Pre-prints
-<sup>21</sup> **Peipei Wang**<sup>#</sup>, Fanrui Meng, Christina B Del Azodi, Kenia Segura Aba, Michael D. Casler, Shin-Han Shiu<sup>#</sup>. 2024. Impact of genome assemblies, genotyping methods, variant types, ploidy levels and population structures on genomic prediction in switchgrass. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.06.17.599440v1)
+<sup>22</sup> **Peipei Wang**<sup>#</sup>, Fanrui Meng, Christina B Del Azodi, Kenia Segura Aba, Michael D. Casler, Shin-Han Shiu<sup>#</sup>. 2024. Impact of genome assemblies, genotyping methods, variant types, ploidy levels and population structures on genomic prediction in switchgrass. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.06.17.599440v1)
 
 
 ## Published
