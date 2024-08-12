@@ -70,7 +70,7 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 ### 2015
 
-<sup>3</sup> Jinhua Ran, Tingting Shen, Wenjuan Liu, **Peipei Wang**, Xiaoquan Wang<sup>#</sup>. 2015. Mitochondrial introgression and complex biogeographic history of the genus Picea. *Mol Phylogenetics Evol* 93:63-76 [pubmed](https://pubmed.ncbi.nlm.nih.gov/26232548/)
+<sup>3</sup> Jinhua Ran, Tingting Shen, Wenjuan Liu, **Peipei Wang**, Xiaoquan Wang<sup>#</sup>. 2015. Mitochondrial introgression and complex biogeographic history of the genus Picea. *Mol Phylogenet Evol* 93:63-76 [pubmed](https://pubmed.ncbi.nlm.nih.gov/26232548/)
 
 ### 2013
 
