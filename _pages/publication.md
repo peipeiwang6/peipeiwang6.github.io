@@ -15,7 +15,7 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 ### 2024
 
-<sup>21</sup> **Peipei Wang**<sup>#</sup>, Melissa D Lehti-Shiu, Serena Lotreck, Kenia Segura Aba, Patrick J. Krysan, Shin-Han Shiu<sup>#</sup>. 2024. Prediction of plant complex traits via integration of multi-omics data. *Nat Commun* 15(1):6856 [pubmed](https://pubmed.ncbi.nlm.nih.gov/39127735/) [behind the paper](https://communities.springernature.com/manage/posts/254740)
+<sup>21</sup> **Peipei Wang**<sup>#</sup>, Melissa D Lehti-Shiu, Serena Lotreck, Kenia Segura Aba, Patrick J. Krysan, Shin-Han Shiu<sup>#</sup>. 2024. Prediction of plant complex traits via integration of multi-omics data. *Nat Commun* 15(1):6856 [pubmed](https://pubmed.ncbi.nlm.nih.gov/39127735/) [behind the paper](https://communities.springernature.com/posts/insights-on-genomic-prediction-and-underlying-molecular-mechanisms-for-complex-traits-by-integrating-multi-omics-data)
 
 <sup>20</sup> Wenhui Bai, Cheng Li, Wei Li, Xiaohong Han<sup>#</sup>, **Peipei Wang**<sup>#</sup>, Li Wang<sup>#</sup>. 2024. Machine learning assists prediction of genes responsible for plant specialized metabolite biosynthesis by integrating multi-omics data. *BMC Genomics* 25:418 [pubmed](https://pubmed.ncbi.nlm.nih.gov/38679745/)
 
