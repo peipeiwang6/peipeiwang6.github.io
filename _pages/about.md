@@ -12,7 +12,7 @@ redirect_from:
 
 
 **How do transcriptome and methylome contribute to trait prediction?**
-<a href="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-024-50701-6/MediaObjects/41467_2024_50701_Fig6_HTML.png?as=webp"><img src="../images/Fig. 1 Flow_chart_v7.jpg" align="right" width="150"></a> 
+<a href="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-024-50701-6/MediaObjects/41467_2024_50701_Fig6_HTML.png?as=webp"><img src="../images/Fig. 1 Flow_chart_v7.jpg" align="right" width="350"></a> 
 Transcriptome- and methylome-based models had performances comparable to those of genome-based models in *Arabidopsis thaliana*, but identified different benchmark genes. Gene contributions to flowering time prediction are accession-dependent and distinct genes contribute to trait prediction in different genotypes. Models integrating multi-omics data perform best and reveal known and additional gene interactions, extending knowledge about existing regulatory networks underlying flowering time determination. These results have been published in ***Nat Commun***. [pubmed](https://pubmed.ncbi.nlm.nih.gov/39127735/)
 
 **Why are the structures of spiral flowers flexible?**
