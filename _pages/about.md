@@ -11,9 +11,14 @@ redirect_from:
 ## I am generally interested in questions about the evolution of plants, genes, plant genomes and transcriptomes, and the predictive biology using machine learning. 
 
 
+**How do transcriptome and methylome contribute to trait prediction?**
+<a href="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-024-50701-6/MediaObjects/41467_2024_50701_Fig6_HTML.png?as=webp"><img src="../images/Fig. 1 Flow_chart_v7.jpg" align="right" width="150"></a> 
+Transcriptome- and methylome-based models had performances comparable to those of genome-based models in *Arabidopsis thaliana*, but identified different benchmark genes. Gene contributions to flowering time prediction are accession-dependent and distinct genes contribute to trait prediction in different genotypes. Models integrating multi-omics data perform best and reveal known and additional gene interactions, extending knowledge about existing regulatory networks underlying flowering time determination. These results have been published in ***Nat Commun***. [pubmed](https://pubmed.ncbi.nlm.nih.gov/39127735/)
+
 **Why are the structures of spiral flowers flexible?**
 <a href="https://www.nature.com/articles/nplants2015188/figures/3"><img src="../images/41477_2016_Article_BFnplants2015188_Fig3.png" align="right" width="150"></a> 
 Using *Nigella damascena* (love-in-a-mist) as a model system, we revealed that the expression profiles of floral organ identify genes are highly dynamic, and the genes regulate the boundaries between different types of floral organs by forming a complex regulatory network. Notably, the *AGL6*-lineage member *NdAGL6* is an A-function gene determining the identity of sepal and petal, rather than the *AP1*-lineage genes as in *Arabidopsis thaliana*. These results have been published in ***Nat Plants***. [pubmed](https://pubmed.ncbi.nlm.nih.gov/27250746/)
+
 
 **How can we measure Arabidopsis fitness efficiently?**
 <a href="https://nph.onlinelibrary.wiley.com/cms/asset/2c994acd-68fa-42a2-a374-e3842ad4ad86/nph18056-fig-0002-m.png"><img src="../images/nph18056-fig-0002-m.jpg" align="right" width="150"></a> Using the Faster Region-based Convolutional Neural Network (R-CNN) algorithm, we established the image recognition models for Arabidopsis seeds and fruits, which yielded near perfect counts (r2 = 0.9996 and 0.980, respectively). These results have been published in ***New Phytol***.[pubmed](https://pubmed.ncbi.nlm.nih.gov/35218008/)
