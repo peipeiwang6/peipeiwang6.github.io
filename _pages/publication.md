@@ -11,7 +11,7 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 <sup>23</sup> Jingwei Ma<sup>‡</sup>, Liting Zou<sup>‡</sup>, Zhenglin Wang<sup>‡</sup>, Xiaoxue Wang, Xinyi Zuo, Fei Wang, Zhiqing Wang, Zhimei Li, Lin Li<sup>#</sup>, **Peipei Wang**<sup>#</sup>. 2024. The utility of single-cell RNA sequencing data in predicting plant metabolic pathway genes. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.10.07.617125v1)
 
 
-<sup>22</sup> **Peipei Wang**<sup>#</sup>, Fanrui Meng, Christina B Del Azodi, Kenia Segura Aba, Michael D. Casler, Shin-Han Shiu<sup>#</sup>. 2024. Optimizing genomic prediction for complex traits via investigating multiple factors in switchgrass. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.06.17.599440v2)
+<sup>22</sup> **Peipei Wang**<sup>#</sup>, Fanrui Meng, Christina B Del Azodi, Kenia Segura Aba, Michael D. Casler, Shin-Han Shiu<sup>#</sup>. 2024. Optimizing genomic prediction for complex traits via investigating multiple factors in switchgrass. accepted in *Plant Physiology* [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.06.17.599440v2)
 
 
 ## Published
