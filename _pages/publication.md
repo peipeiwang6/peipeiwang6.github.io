@@ -14,7 +14,7 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 ### 2025
 
-<sup>22</sup> **Peipei Wang**<sup>#</sup>, Fanrui Meng, Christina B Del Azodi, Kenia Segura Aba, Michael D. Casler, Shin-Han Shiu<sup>#</sup>. 2025. Optimizing genomic prediction for complex traits via investigating multiple factors in switchgrass. accepted in *Plant Physiology* [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.06.17.599440v2)
+<sup>22</sup> **Peipei Wang**<sup>#</sup>, Fanrui Meng, Christina B Del Azodi, Kenia Segura Aba, Michael D. Casler, Shin-Han Shiu<sup>#</sup>. 2025. Optimizing genomic prediction for complex traits via investigating multiple factors in switchgrass. *Plant Physiology* kiaf188 (DOI:10.1093/plphys/kiaf188)[Plant Physiology](https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiaf188/8126253?utm_source=authortollfreelink&utm_campaign=plphys&utm_medium=email&guestAccessKey=41aee372-a2c8-4a4f-8071-0f817910d08a&login=false)
 
 
 ### 2024
