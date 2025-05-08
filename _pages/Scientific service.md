@@ -11,4 +11,4 @@ Guest editor for **Frontiers in Plant Science** for the topic of [Omics Data-bas
 
 Review editor on the Editorial Board of Plant Physiology (specialty section of **Frontiers in Physiology and Frontiers in Plant Science**).
 
-Have reviewed manuscripts submitted to **Nature Communications**, **New Phytologist**, **Current Opinion in Plant Biology**, **Frontiers in Plant Science**, **Communications Biology**, **Genome Biology and Evolution**, **BMC Evolutionary Biology**, **International Journal of Molecular Sciences**, **Genes** and **Agronomy**.
+Have reviewed manuscripts submitted to **Nature Communications**, **Nature Chemical Biology**, **New Phytologist**, **Current Opinion in Plant Biology**, **Communications Biology**, **Frontiers in Plant Science**, **Genome Biology and Evolution**, **BMC Evolutionary Biology**, **International Journal of Molecular Sciences**, **Genes** and **Agronomy**.
