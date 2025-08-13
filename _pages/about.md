@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 ## I am generally interested in questions about the evolution of plants, genes, plant genomes and transcriptomes, and the predictive biology using machine learning. 
-
+**What are the effects of genome assemblies, genotyping approaches, genetic variant types, population structures on genomic prediction?**
+<a href="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/plphys/198/3/10.1093_plphys_kiaf188/1/m_kiaf188f3.jpeg?Expires=1758054615&Signature=BrkbDeKyy8DHoErwkuHr4Zjn15XtLiT~ErPXixYE9-0867IztUK4lpbYzNRamRV38ub1O4k6e-yCipoTJ6iqYCapnbghbP6aaFw1FlmeBq7YIjRaBZF2TkM~MVM4PBdtebof6OtxNeL~5sSRk3oa6vr-uKjs1HOP9T0MaTWuJZooVvDmJrQxFfQApJ0LBIU2F8MyCdkUWBQ93LYSgROg-v66GwDdipRroPhkGzECAmk1eXqS9AXKDAh9KaAo4xnwQqTfIBwzZF-~MiA4bsn8klmeStwL-3j68b~p5mFOCZAPewqX3mobiJ4tfGg3JDZE4976iijZ-bxFFdYlVERmRw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"><img src="../images/Fig.3_genotyping_01.jpg" align="right" width="350"></a> 
+When predicting 20 complex traits in switchgrass (*Panicum virgatum* L.), a perennial biofuel feedstock, we found that short read-based genome assembly performs comparably to or even better than long read-based assembly; due to higher gene coverage, exome capture and multi-allelic variants outperform genotyping-by-sequencing and bi-allelic variants, respectively; tetraploid models show higher prediction accuracy than octoploid models for most traits, likely due to the greater genetic distances among tetraploids. These results have been published in ***Plant Physiol***. [pubmed](https://pubmed.ncbi.nlm.nih.gov/40331363/)
 
 **How do transcriptome and methylome contribute to trait prediction?**
 <a href="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-024-50701-6/MediaObjects/41467_2024_50701_Fig1_HTML.png?as=webp"><img src="../images/Fig. 1 Flow_chart_v7.jpg" align="right" width="350"></a> 
