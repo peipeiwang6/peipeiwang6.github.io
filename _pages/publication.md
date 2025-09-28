@@ -8,7 +8,7 @@ author_profile: true
 __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding author
 
 ## Pre-prints
-<sup>24</sup> Fei Wang<sup>‡</sup>, Xinyi Zuo<sup>‡</sup>, Angel Wingho SZE<sup>‡</sup>, Zhimei Li, Tao Xie, Hongyan Shan, Rui Zhang<sup>#</sup>, Ruidong Jia<sup>#</sup>, Hongzhi Kong<sup>#</sup>, **Peipei Wang**<sup>#</sup>. 2024. Molecular mechanisms underlying floral trait formation in *Phalaenopsis* orchids. [under review]
+<sup>24</sup> <sup>review</sup> Fei Wang<sup>‡</sup>, Xinyi Zuo<sup>‡</sup>, Angel Wingho SZE<sup>‡</sup>, Zhimei Li, Tao Xie, Hongyan Shan, Rui Zhang<sup>#</sup>, Ruidong Jia<sup>#</sup>, Hongzhi Kong<sup>#</sup>, **Peipei Wang**<sup>#</sup>. 2024. Molecular mechanisms underlying floral trait formation in *Phalaenopsis* orchids. [under review]
 
 <sup>23</sup> Jingwei Ma<sup>‡</sup>, Liting Zou<sup>‡</sup>, Zhenglin Wang<sup>‡</sup>, Xiaoxue Wang, Xinyi Zuo, Fei Wang, Zhiqing Wang, Zhimei Li, Lin Li<sup>#</sup>, **Peipei Wang**<sup>#</sup>. 2024. The utility of single-cell RNA sequencing data in predicting plant metabolic pathway genes. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.10.07.617125v1)
 
@@ -36,7 +36,7 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 <sup>17</sup> **Peipei Wang**<sup>‡</sup>, Fanrui Meng<sup>‡</sup>, Paityn Donaldson, Sarah Horan, Nicholas L. Panchy, Elyse Vischulis, Eamon Winship, Jeffrey K. Conner, Patrick J Krysan, Shin-Han Shiu<sup>#</sup>, Melissa D. Lehti-Shiu<sup>#</sup>. 2022. High throughput measurement of plant fitness traits with an object detection method using Faster R-CNN. *New Phytologist* 234(4):1521-1533 [pubmed](https://pubmed.ncbi.nlm.nih.gov/35218008/)
 
-<sup>16</sup> **Peipei Wang**<sup>#</sup>, Ally Schumacher and Shin-Han Shiu<sup>#</sup>. 2022. Computational prediction of plant metabolic pathways. *Current Opinion in Plant Biology* 66:102171 [pubmed](https://pubmed.ncbi.nlm.nih.gov/35078130/)
+<sup>16</sup> <sup>review</sup> **Peipei Wang**<sup>#</sup>, Ally Schumacher and Shin-Han Shiu<sup>#</sup>. 2022. Computational prediction of plant metabolic pathways. *Current Opinion in Plant Biology* 66:102171 [pubmed](https://pubmed.ncbi.nlm.nih.gov/35078130/)
 
 <sup>15</sup> Bethany Moore<sup>#</sup><sup>‡</sup>, Yun Lee<sup>‡</sup>, **Peipei Wang**, Christina Azodi, Erich Grotewold, and Shin-Han Shiu<sup>#</sup>. 2022. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. *Plant Cell* 34(2): 867–888 [pubmed](https://pubmed.ncbi.nlm.nih.gov/34865154/). 
 
@@ -68,7 +68,7 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 ### 2017
 
-<sup>5</sup> Melissa D. Lehti-Shiu, Nicholas Panchy, **Peipei Wang**, Sahra Uygun, Shin-Han Shiu<sup>#</sup>. 2017. Diversity, expansion, and evolutionary novelty of plant DNA-binding transcription factor families. *Biochimica et Biophysica Acta (BBA)-Gene Regulatory Mechanisms* 1860(1):3-20 [pubmed](https://pubmed.ncbi.nlm.nih.gov/27522016/)
+<sup>5</sup> <sup>review</sup> Melissa D. Lehti-Shiu, Nicholas Panchy, **Peipei Wang**, Sahra Uygun, Shin-Han Shiu<sup>#</sup>. 2017. Diversity, expansion, and evolutionary novelty of plant DNA-binding transcription factor families. *Biochimica et Biophysica Acta (BBA)-Gene Regulatory Mechanisms* 1860(1):3-20 [pubmed](https://pubmed.ncbi.nlm.nih.gov/27522016/)
 
 ### 2016
 
