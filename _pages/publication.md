@@ -8,9 +8,9 @@ author_profile: true
 __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding author
 
 ## Pre-prints
-<sup>24</sup> <sup>review</sup> Fei Wang<sup>‡</sup>, Xinyi Zuo<sup>‡</sup>, Angel Wingho SZE<sup>‡</sup>, Zhimei Li, Tao Xie, Hongyan Shan, Rui Zhang<sup>#</sup>, Ruidong Jia<sup>#</sup>, Hongzhi Kong<sup>#</sup>, **Peipei Wang**<sup>#</sup>. 2024. Molecular mechanisms underlying floral trait formation in *Phalaenopsis* orchids. [under review]
+<sup>24</sup> <sup>review</sup> Fei Wang<sup>‡</sup>, Xinyi Zuo<sup>‡</sup>, Angel Wingho SZE<sup>‡</sup>, Zhimei Li, Tao Xie, Hongyan Shan, Rui Zhang<sup>#</sup>, Ruidong Jia<sup>#</sup>, Hongzhi Kong<sup>#</sup>, **Peipei Wang**<sup>#</sup>. 2025. Molecular mechanisms underlying floral trait formation in *Phalaenopsis* orchids. [under review]
 
-<sup>23</sup> Jingwei Ma<sup>‡</sup>, Zhenglin Wang<sup>‡</sup>, Liting Zou<sup>‡</sup>, Xiaoxue Wang, Xinyi Zuo, Fei Wang, Zhiqing Wang, Zhimei Li, Lin Li<sup>#</sup>, **Peipei Wang**<sup>#</sup>. 2024. Usefulness of scRNA-seq data in predicting plant metabolic pathway genes. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.10.07.617125v2)
+<sup>23</sup> Jingwei Ma<sup>‡</sup>, Zhenglin Wang<sup>‡</sup>, Liting Zou<sup>‡</sup>, Xiaoxue Wang, Xinyi Zuo, Fei Wang, Zhiqing Wang, Zhimei Li, Lin Li<sup>#</sup>, **Peipei Wang**<sup>#</sup>. 2025. Usefulness of scRNA-seq data in predicting plant metabolic pathway genes. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.10.07.617125v2)
 
 ## Published
 
