@@ -13,4 +13,4 @@ Review editor on the Editorial Board of Plant Physiology (specialty section of *
 
 Editorial Board Member of **BMC Genomics**.
 
-Have reviewed manuscripts submitted to **Nature Communications**, **Nature Chemical Biology**, **New Phytologist**, **Current Opinion in Plant Biology**, **Communications Biology**, **Frontiers in Plant Science**, **Genome Biology and Evolution**, **BMC Evolutionary Biology**, **International Journal of Molecular Sciences**, **Genes** and **Agronomy**.
+Have reviewed manuscripts submitted to **Nature Communications**, **Nature Chemical Biology**, **New Phytologist**, **Current Opinion in Plant Biology**, **Communications Biology**, **Frontiers in Plant Science**, **Genome Biology and Evolution**, **BMC Evolutionary Biology**, **BMC Plant Biology**, **Ornamental Plant Research**, **International Journal of Molecular Sciences**, **Genes** and **Agronomy**.
