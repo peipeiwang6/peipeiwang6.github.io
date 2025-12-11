@@ -15,7 +15,7 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 ### 2025
 
-<sup>23</sup> <sup>review</sup> Fei Wang<sup>‡</sup>, Xinyi Zuo<sup>‡</sup>, Angel Wingho SZE<sup>‡</sup>, Zhimei Li, Tao Xie, Hongyan Shan, Rui Zhang<sup>#</sup>, Ruidong Jia<sup>#</sup>, Hongzhi Kong<sup>#</sup>, **Peipei Wang**<sup>#</sup>. 2025. Molecular mechanisms underlying floral trait formation in *Phalaenopsis* orchids. accepted in *Horticulture Research*
+<sup>23</sup> <sup>review</sup> Fei Wang<sup>‡</sup>, Xinyi Zuo<sup>‡</sup>, Angel Wingho SZE<sup>‡</sup>, Zhimei Li, Tao Xie, Hongyan Shan, Rui Zhang<sup>#</sup>, Ruidong Jia<sup>#</sup>, Hongzhi Kong<sup>#</sup>, **Peipei Wang**<sup>#</sup>. 2025. Molecular mechanisms underlying floral trait formation in *Phalaenopsis* orchids. *Horticulture Research* uhaf340 [Horticulture Research](https://academic.oup.com/hr/advance-article/doi/10.1093/hr/uhaf340/8376247?searchresult=1)
 
 <sup>22</sup> **Peipei Wang**<sup>#</sup>, Fanrui Meng, Christina B Del Azodi, Kenia Segura Aba, Michael D. Casler, Shin-Han Shiu<sup>#</sup>. 2025. Optimizing genomic prediction for complex traits via investigating multiple factors in switchgrass. *Plant Physiology* 198(3):kiaf188 [pubmed](https://pmc.ncbi.nlm.nih.gov/articles/PMC12238539/)
 
