@@ -9,7 +9,7 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 ## Pre-prints
 
-<sup>25</sup> Ruidong Jia<sup>‡</sup>; Xinyi Zuo<sup>‡</sup>; Liting Zou<sup>‡</sup>; Li Wang; Letian Lin; Zhiqing Wang; Yuexia Zhang; Xingyu Chen; Fanrui Meng; Hantang Huang; Lan Lan; Zhimei Li; Fei Wang; Yuxuan Jin; Hongyan Shan; Rui Zhang<sup>#</sup>; Hongzhi Kong<sup>#</sup>; **Peipei Wang**<sup>#</sup>. 2026. The genome of an aneuploid cultivar facilitates elucidating the genetic bases of trait polymorphisms in *Phalaenopsis* orchids. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.02.11.705238v2)
+<sup>25</sup> Ruidong Jia<sup>‡</sup>; Xinyi Zuo<sup>‡</sup>; Liting Zou<sup>‡</sup>; Li Wang; Letian Lin; Zhiqing Wang; Yuexia Zhang; Xingyu Chen; Fanrui Meng; Hantang Huang; Lan Lan; Zhimei Li; Fei Wang; Yuxuan Jin; Hongyan Shan; Rui Zhang<sup>#</sup>; Hongzhi Kong<sup>#</sup>; **Peipei Wang**<sup>#</sup>. 2026. Haplotype-resolved genome assembly advances genetic understanding of trait diversity in *Phalaenopsis* orchids. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.02.11.705238v3)
 
 <sup>24</sup> Jingwei Ma<sup>‡</sup>, Zhenglin Wang<sup>‡</sup>, Liting Zou<sup>‡</sup>, Xiaoxue Wang, Xinyi Zuo, Fei Wang, Zhiqing Wang, Zhimei Li, Lin Li<sup>#</sup>, **Peipei Wang**<sup>#</sup>. 2025. Usefulness of scRNA-seq data in predicting plant metabolic pathway genes. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.10.07.617125v2)
 
