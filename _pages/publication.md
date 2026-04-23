@@ -9,7 +9,7 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 ## Pre-prints
 
-<sup>26</sup> Zhiqing Wang<sup>‡</sup>; Jingwei Ma<sup>‡</sup>; Junshuo Qiu; Letian Lin; Xiaojuan Wang; Lichuan Chen; Hao Du; Tao Xie; Ruidong Jia; Yuexia Zhang; Bo Li；Jue Ruan; **Junxia Wang**; **Zhimei Li**; **Peipei Wang**<sup>#</sup>. 2026. Autoluminescence characteristics of 25 *Phalaenopsis* orchids following transient transformation with eFBP2. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.04.20.719549v1)
+<sup>26</sup> Zhiqing Wang<sup>‡</sup>; Jingwei Ma<sup>‡</sup>; Junshuo Qiu; Letian Lin; Xiaojuan Wang; Lichuan Chen; Hao Du; Tao Xie; Ruidong Jia; Yuexia Zhang; Bo Li；Jue Ruan; Junxia Wang<sup>#</sup>; Zhimei Li<sup>‡</sup><sup>#</sup>; **Peipei Wang**<sup>#</sup>. 2026. Autoluminescence characteristics of 25 *Phalaenopsis* orchids following transient transformation with eFBP2. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.04.20.719549v1)
 
 <sup>25</sup> Ruidong Jia<sup>‡</sup>; Xinyi Zuo<sup>‡</sup>; Liting Zou<sup>‡</sup>; Li Wang; Letian Lin; Zhiqing Wang; Yuexia Zhang; Xingyu Chen; Fanrui Meng; Hantang Huang; Lan Lan; Zhimei Li; Fei Wang; Yuxuan Jin; Hongyan Shan; Rui Zhang<sup>#</sup>; Hongzhi Kong<sup>#</sup>; **Peipei Wang**<sup>#</sup>. 2026. Haplotype-resolved genome assembly advances genetic understanding of trait diversity in *Phalaenopsis* orchids. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.02.11.705238v3)
 
