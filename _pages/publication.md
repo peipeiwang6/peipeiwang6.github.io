@@ -9,15 +9,15 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 ## Pre-prints
 
-<sup>25</sup> Ruidong Jia<sup>‡</sup>; Xinyi Zuo<sup>‡</sup>; Liting Zou<sup>‡</sup>; Li Wang; Letian Lin; Zhiqing Wang; Yuexia Zhang; Xingyu Chen; Fanrui Meng; Hantang Huang; Lan Lan; Zhimei Li; Fei Wang; Yuxuan Jin; Hongyan Shan; Rui Zhang<sup>#</sup>; Hongzhi Kong<sup>#</sup>; **Peipei Wang**<sup>#</sup>. 2026. Haplotype-resolved genome assembly advances genetic understanding of trait diversity in *Phalaenopsis* orchids. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.02.11.705238v3)
+<sup>26</sup> Ruidong Jia<sup>‡</sup>; Xinyi Zuo<sup>‡</sup>; Liting Zou<sup>‡</sup>; Li Wang; Letian Lin; Zhiqing Wang; Yuexia Zhang; Xingyu Chen; Fanrui Meng; Hantang Huang; Lan Lan; Zhimei Li; Fei Wang; Yuxuan Jin; Hongyan Shan; Rui Zhang<sup>#</sup>; Hongzhi Kong<sup>#</sup>; **Peipei Wang**<sup>#</sup>. 2026. Haplotype-resolved genome assembly advances genetic understanding of trait diversity in *Phalaenopsis* orchids. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.02.11.705238v3)
 
-<sup>24</sup> Jingwei Ma<sup>‡</sup>, Zhenglin Wang<sup>‡</sup>, Liting Zou<sup>‡</sup>, Xiaoxue Wang, Xinyi Zuo, Fei Wang, Zhiqing Wang, Zhimei Li, Lin Li<sup>#</sup>, **Peipei Wang**<sup>#</sup>. 2025. Usefulness of scRNA-seq data in predicting plant metabolic pathway genes. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.10.07.617125v2)
+<sup>25</sup> Jingwei Ma<sup>‡</sup>, Zhenglin Wang<sup>‡</sup>, Liting Zou<sup>‡</sup>, Xiaoxue Wang, Xinyi Zuo, Fei Wang, Zhiqing Wang, Zhimei Li, Lin Li<sup>#</sup>, **Peipei Wang**<sup>#</sup>. 2025. Usefulness of scRNA-seq data in predicting plant metabolic pathway genes. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.10.07.617125v2)
 
 ## Published
 
 ### 2026
 
-<sup>26</sup> Zhiqing Wang<sup>‡</sup>; Jingwei Ma<sup>‡</sup>; Junshuo Qiu; Letian Lin; Xiaojuan Wang; Lichuan Chen; Hao Du; Tao Xie; Ruidong Jia; Yuexia Zhang; Jue Ruan; Junxia Wang<sup>#</sup>; Zhimei Li<sup>‡</sup><sup>#</sup>; **Peipei Wang**<sup>#</sup>. 2026. Impact of floral traits on autoluminescence potential in Phalaenopsis orchids. accepted in *Ornamental Plant Research* [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.04.20.719549v1)
+<sup>24</sup> Zhiqing Wang<sup>‡</sup>; Jingwei Ma<sup>‡</sup>; Junshuo Qiu; Letian Lin; Xiaojuan Wang; Lichuan Chen; Hao Du; Tao Xie; Ruidong Jia; Yuexia Zhang; Jue Ruan; Junxia Wang<sup>#</sup>; Zhimei Li<sup>‡</sup><sup>#</sup>; **Peipei Wang**<sup>#</sup>. 2026. Impact of floral traits on autoluminescence potential in Phalaenopsis orchids. accepted in *Ornamental Plant Research* [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.04.20.719549v1)
 
 <sup>23</sup> <sup>review</sup> Fei Wang<sup>‡</sup>, Xinyi Zuo<sup>‡</sup>, Angel Wingho SZE<sup>‡</sup>, Zhimei Li, Tao Xie, Hongyan Shan, Rui Zhang<sup>#</sup>, Ruidong Jia<sup>#</sup>, Hongzhi Kong<sup>#</sup>, **Peipei Wang**<sup>#</sup>. 2026. Molecular mechanisms underlying floral trait formation in *Phalaenopsis* orchids. *Horticulture Research* 13(3):uhaf340 [pubmed](https://pubmed.ncbi.nlm.nih.gov/41821677/)
 
