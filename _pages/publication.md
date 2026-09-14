@@ -17,7 +17,7 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 ### 2026
 
-<sup>24</sup> Zhiqing Wang<sup>‡</sup>; Jingwei Ma<sup>‡</sup>; Junshuo Qiu; Letian Lin; Xiaojuan Wang; Lichuan Chen; Hao Du; Tao Xie; Ruidong Jia; Yuexia Zhang; Jue Ruan; Junxia Wang<sup>#</sup>; Zhimei Li<sup>‡</sup><sup>#</sup>; **Peipei Wang**<sup>#</sup>. 2026. Impact of floral traits on autoluminescence potential in Phalaenopsis orchids. accepted in *Ornamental Plant Research* [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.04.20.719549v1)
+<sup>24</sup> Zhiqing Wang<sup>‡</sup>; Jingwei Ma<sup>‡</sup>; Junshuo Qiu; Letian Lin; Xiaojuan Wang; Lichuan Chen; Hao Du; Tao Xie; Ruidong Jia; Yuexia Zhang; Jue Ruan; Junxia Wang<sup>#</sup>; Zhimei Li<sup>‡</sup><sup>#</sup>; **Peipei Wang**<sup>#</sup>. 2026. Impact of floral traits on autoluminescence potential in Phalaenopsis orchids.  *Ornamental Plant Research* 6: e032 [OPR](https://www.maxapress.com/article/doi/10.48130/opr-0026-0023)
 
 <sup>23</sup> <sup>review</sup> Fei Wang<sup>‡</sup>, Xinyi Zuo<sup>‡</sup>, Angel Wingho SZE<sup>‡</sup>, Zhimei Li, Tao Xie, Hongyan Shan, Rui Zhang<sup>#</sup>, Ruidong Jia<sup>#</sup>, Hongzhi Kong<sup>#</sup>, **Peipei Wang**<sup>#</sup>. 2026. Molecular mechanisms underlying floral trait formation in *Phalaenopsis* orchids. *Horticulture Research* 13(3):uhaf340 [pubmed](https://pubmed.ncbi.nlm.nih.gov/41821677/)
 
