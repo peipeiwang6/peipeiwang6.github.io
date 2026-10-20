@@ -9,6 +9,13 @@ redirect_from:
 ---
 
 ## I am generally interested in questions about the evolution of plants, genes, plant genomes and transcriptomes, and the predictive biology using machine learning. 
+**What are the impacts of floral traits on autoluminescence potential?**
+<a href="https://www.maxapress.com/article/doi/10.48130/opr-0026-0023"><img src="../images/OPR_fig2.jpg" align="right" width="350"></a> 
+Engineering autoluminescent plants, especially horticultural crops, has recently emerged as a promising research area. Using 25 representative *Phalaenopsis* cultivars as materials, we found that autoluminescence characteristics are correlated with floral color lightness, organ textures, and
+epidermal cell types. In contrast, the content of the substrates of luciferin—caffeic acid and tyrosine—and the ease of infiltration of the inoculation solution
+into floral organs after injection have limited effects on autoluminescence characteristics. Autoluminescence intensity can be reasonably predicted using
+the five floral traits investigated, as 80.4% of variation can be explained by these traits. These results have been published in ***Ornamental Plant Research***. [OPR](https://www.maxapress.com/article/doi/10.48130/opr-0026-0023)
+
 **What are the effects of genome assemblies, genotyping approaches, genetic variant types, population structures on genomic prediction?**
 <a href="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/plphys/198/3/10.1093_plphys_kiaf188/1/m_kiaf188f3.jpeg?Expires=1758054615&Signature=BrkbDeKyy8DHoErwkuHr4Zjn15XtLiT~ErPXixYE9-0867IztUK4lpbYzNRamRV38ub1O4k6e-yCipoTJ6iqYCapnbghbP6aaFw1FlmeBq7YIjRaBZF2TkM~MVM4PBdtebof6OtxNeL~5sSRk3oa6vr-uKjs1HOP9T0MaTWuJZooVvDmJrQxFfQApJ0LBIU2F8MyCdkUWBQ93LYSgROg-v66GwDdipRroPhkGzECAmk1eXqS9AXKDAh9KaAo4xnwQqTfIBwzZF-~MiA4bsn8klmeStwL-3j68b~p5mFOCZAPewqX3mobiJ4tfGg3JDZE4976iijZ-bxFFdYlVERmRw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"><img src="../images/Fig.3_genotyping_01.jpg" align="right" width="350"></a> 
 When predicting 20 complex traits in switchgrass (*Panicum virgatum* L.), a perennial biofuel feedstock, we found that short read-based genome assembly performs comparably to or even better than long read-based assembly; due to higher gene coverage, exome capture and multi-allelic variants outperform genotyping-by-sequencing and bi-allelic variants, respectively; tetraploid models show higher prediction accuracy than octoploid models for most traits, likely due to the greater genetic distances among tetraploids. These results have been published in ***Plant Physiol***. [pubmed](https://pubmed.ncbi.nlm.nih.gov/40331363/)
