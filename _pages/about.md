@@ -9,6 +9,17 @@ redirect_from:
 ---
 
 ## I am generally interested in questions about the evolution of plants, genes, plant genomes and transcriptomes, and the predictive biology using machine learning. 
+**What are the impacts of floral traits on autoluminescence potential?**
+<a href="https://www.maxapress.com/article/doi/10.48130/opr-0026-0023"><img src="../images/OPR_fig2.jpg" align="right" width="350"></a> 
+Engineering autoluminescent plants, especially horticultural crops, has recently emerged as a promising research area. Using 25 representative *Phalaenopsis* cultivars as materials, we found that autoluminescence characteristics are correlated with floral color lightness, organ textures, and
+epidermal cell types. In contrast, the content of the substrates of luciferin—caffeic acid and tyrosine—and the ease of infiltration of the inoculation solution
+into floral organs after injection have limited effects on autoluminescence characteristics. Autoluminescence intensity can be reasonably predicted using
+the five floral traits investigated, as 80.4% of variation can be explained by these traits. These results have been published in ***Ornamental Plant Research***. [OPR](https://www.maxapress.com/article/doi/10.48130/opr-0026-0023)
+
+**Research progress on the molecular mechanisms underlying floral trait formation in Phalaenopsis orchids**
+<a><img src="../images/HR_Fig.1.jpg" align="right" width="350"></a> 
+Phalaenopsis orchids are one of the most important ornamental crops, prized for their beautiful flowers and long flowering phase. Despite significant research efforts, progress has been hampered by several resource limitations, and the molecular mechanisms underlying the formation and diversity of most important horticultural traits in Phal. orchids remain largely unexplored. We summarized recent research advances, with a primary focus on the key floral traits in Phal. orchids, including inflorescence type, flowering time, floral organ organization, color patterning, size, longevity, scent, organ shape, cuticle production and wax biosynthesis. Furthermore, we offered perspectives on future research directions aimed at elucidating the genetic basis for the remarkable diversity of these traits and advancing molecular breeding in Phal. orchids. This review has been published in ***Horticulture Research***. [pubmed](https://pubmed.ncbi.nlm.nih.gov/41821677/)
+
 **Why are the structures of spiral flowers flexible?**
 <a href="https://www.nature.com/articles/nplants2015188/figures/3"><img src="../images/41477_2016_Article_BFnplants2015188_Fig3.png" align="right" width="150"></a> 
 Using *Nigella damascena* (love-in-a-mist) as a model system, we revealed that the expression profiles of floral organ identify genes are highly dynamic, and the genes regulate the boundaries between different types of floral organs by forming a complex regulatory network. Notably, the *AGL6*-lineage member *NdAGL6* is an A-function gene determining the identity of sepal and petal, rather than the *AP1*-lineage genes as in *Arabidopsis thaliana*. These results have been published in ***Nature Plants***. [pubmed](https://pubmed.ncbi.nlm.nih.gov/27250746/)
@@ -40,17 +51,6 @@ Using the Solanaceae family as a model and Pfam domain families as a proxy for g
 **What are the factors influencing read coverage and misassembly in a genome assembled using short reads?**
 <a href="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5c10/7852129/3f679f37a2b4/12864_2021_7397_Fig5_HTML.jpg"><img src="../images/BMC_genomics_Fig5.png" align="right" width="150"></a> 
 In tomato, 0.6% (5.1 Mb) and 9.7% (79.6 Mb) of short-read based assembly had significantly higher and lower coverage compared to background, respectively. We first established machine learning models capable of predicting genomic regions with variable coverages and found that high coverage regions tend to have higher simple sequence repeat and tandem gene densities compared to background regions. We also found that 27.8% (1.41 Mb) of high coverage regions were potentially misassembled of duplicate sequences, compared to 1.4% in background regions. In addition, misassembled, high coverage regions tend to be flanked by simple sequence repeats, pseudogenes, and transposon elements. Our study provides insights on the causes of variable coverage regions and a quantitative assessment of factors contributing to plant genome misassembly when using short reads. These results have been published in ***BMC Genomics***. [pubmed](https://pubmed.ncbi.nlm.nih.gov/33530937/)
-
-**What are the impacts of floral traits on autoluminescence potential?**
-<a href="https://www.maxapress.com/article/doi/10.48130/opr-0026-0023"><img src="../images/OPR_fig2.jpg" align="right" width="350"></a> 
-Engineering autoluminescent plants, especially horticultural crops, has recently emerged as a promising research area. Using 25 representative *Phalaenopsis* cultivars as materials, we found that autoluminescence characteristics are correlated with floral color lightness, organ textures, and
-epidermal cell types. In contrast, the content of the substrates of luciferin—caffeic acid and tyrosine—and the ease of infiltration of the inoculation solution
-into floral organs after injection have limited effects on autoluminescence characteristics. Autoluminescence intensity can be reasonably predicted using
-the five floral traits investigated, as 80.4% of variation can be explained by these traits. These results have been published in ***Ornamental Plant Research***. [OPR](https://www.maxapress.com/article/doi/10.48130/opr-0026-0023)
-
-**Research progress on the molecular mechanisms underlying floral trait formation in Phalaenopsis orchids**
-<a><img src="../images/HR_Fig.1.jpg" align="right" width="350"></a> 
-Phalaenopsis orchids are one of the most important ornamental crops, prized for their beautiful flowers and long flowering phase. Despite significant research efforts, progress has been hampered by several resource limitations, and the molecular mechanisms underlying the formation and diversity of most important horticultural traits in Phal. orchids remain largely unexplored. We summarized recent research advances, with a primary focus on the key floral traits in Phal. orchids, including inflorescence type, flowering time, floral organ organization, color patterning, size, longevity, scent, organ shape, cuticle production and wax biosynthesis. Furthermore, we offered perspectives on future research directions aimed at elucidating the genetic basis for the remarkable diversity of these traits and advancing molecular breeding in Phal. orchids. This review has been published in ***Horticulture Research***. [pubmed](https://pubmed.ncbi.nlm.nih.gov/41821677/)
 
 
 
