@@ -9,6 +9,10 @@ __Notation__: <sup>‡</sup>: co-first author; <sup>#</sup>: corresponding autho
 
 ## Pre-prints
 
+<sup>28</sup> Yuxuan Jing, Fei Wang, Jingwei Ma, Yan Bao<sup>#</sup>, **Peipei Wang**<sup>#</sup>. 2026. Genome-guided vs transcriptome-guided mapping: systematic evaluation of RNA-seq quantification bias for tandemly duplicated genes in model and crop plants. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.11.24.768806v1)
+
+<sup>27</sup> Thilanka Ranaweera, Rachel E Kerwin, Huan Chen, Robert L Last, **Peipei Wang**, Shinhan Shiu, Melissa D Lehti-Shiu<sup>#</sup>. 2026. Spatial expression evolution of duplicated genes post-whole genome duplication in cultivated tomato. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.10.28.762560v1)
+
 <sup>26</sup> Ruidong Jia<sup>‡</sup>; Xinyi Zuo<sup>‡</sup>; Liting Zou<sup>‡</sup>; Li Wang; Letian Lin; Zhiqing Wang; Yuexia Zhang; Xingyu Chen; Fanrui Meng; Hantang Huang; Lan Lan; Zhimei Li; Fei Wang; Yuxuan Jin; Hongyan Shan; Rui Zhang<sup>#</sup>; Hongzhi Kong<sup>#</sup>; **Peipei Wang**<sup>#</sup>. 2026. Haplotype-resolved genome assembly advances genetic understanding of trait diversity in *Phalaenopsis* orchids. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.02.11.705238v3)
 
 <sup>25</sup> Jingwei Ma<sup>‡</sup>, Zhenglin Wang<sup>‡</sup>, Liting Zou<sup>‡</sup>, Xiaoxue Wang, Xinyi Zuo, Fei Wang, Zhiqing Wang, Zhimei Li, Lin Li<sup>#</sup>, **Peipei Wang**<sup>#</sup>. 2026. Usefulness of scRNA-seq data in predicting plant metabolic pathway genes. [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.10.07.617125v2)
